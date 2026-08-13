@@ -1,0 +1,11 @@
+# Arquivos compilados
+*.o
+*.exe
+
+# Pastas de compilação
+build/
+bin/
+Debug/
+
+# Arquivos temporários
+*.tmp
